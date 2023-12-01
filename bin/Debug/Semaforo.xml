@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Semaforo</name>
+    </assembly>
+    <members>
+        <member name="T:Semaforo.Program">
+            <summary>
+            Esta clase sirve para...
+            </summary>
+        </member>
+        <member name="M:Semaforo.Program.S4">
+            <summary>
+            Este método...
+            </summary>
+        </member>
+        <member name="M:Semaforo.Program.SemaforoThread(System.Object)">
+            <summary>
+            Tengo un solo método para aceptar cualquier CONFIG de un semáforo...
+            </summary>
+            <param name="semaforoConf">Enviar en un lista la configuración de las esperas...</param>
+        </member>
+    </members>
+</doc>
